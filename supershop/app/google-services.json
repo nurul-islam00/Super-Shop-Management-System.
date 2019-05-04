@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557667501284",
+    "firebase_url": "https://super-shop-2e03d.firebaseio.com",
+    "project_id": "super-shop-2e03d",
+    "storage_bucket": "super-shop-2e03d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557667501284:android:821efd5d5b5196a7",
+        "android_client_info": {
+          "package_name": "e.asus.supershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557667501284-83aababr5hq89knn22s2vtcv3gfqshf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU77fLcDmB7K9oiOT_Robx4uxPNzJuL_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557667501284-83aababr5hq89knn22s2vtcv3gfqshf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
